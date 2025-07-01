@@ -4,8 +4,6 @@
 
 <p align="center">
   <i>A hidden world of ideas, secrets, and pure innovation by Sakib Bhai.</i><br/>
-  <strong>"Mere sapne sach ho jayenge... lekin aap ke bina nahi."</strong>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
