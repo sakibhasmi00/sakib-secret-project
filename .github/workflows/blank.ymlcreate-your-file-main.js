@@ -7,8 +7,6 @@ const secretFolder = path.join(__dirname, 'SakibSecretBox');
 const welcomeText = `
 🔐 Welcome to Sakib Secret 🤫
 Your vault has been unlocked.
-
-> "Mere sapne sach ho jayenge... lekin aap ke bina nahi."
 `;
 
 function createSecretFile() {
